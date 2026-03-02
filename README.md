@@ -1,1 +1,0 @@
-# IC_Card_Production_Training
